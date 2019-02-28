@@ -1,0 +1,13 @@
+C - 10 - 10
+M - 1 - 1
+M - 2 - 2
+T - 0 - 3 - 3
+T - 0 - 4 - 1
+T - 1 - 3 - 1
+T - 8 - 2 - 1
+A - Indiana - 3 - 4 - S - AADADA
+A - Indigo - 6 - 4 - S - GAGGGA
+A - Indolor - 0 - 2 - S - AADDAA
+A - Indstar - 3 - 0 - S - DDDDDD
+O - 8 - 1 - 1 - 4
+G - 0 - 0 - 1 - 4
